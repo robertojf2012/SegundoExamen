@@ -1,0 +1,16 @@
+PODS:
+  - RNNotificationView (3.1.0)
+
+DEPENDENCIES:
+  - RNNotificationView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RNNotificationView
+
+SPEC CHECKSUMS:
+  RNNotificationView: 3918f70c9e094a309d9e0691195d5ad33ce9e9d7
+
+PODFILE CHECKSUM: 115f70baa1b66996e8ece3fa8a549285bdff8780
+
+COCOAPODS: 1.6.1
